@@ -1,3 +1,3 @@
 # myProgs
 
-##my first html5 game is ROCK,PAPER,SCISSOR
+## my first html5 game is ROCK,PAPER,SCISSOR
