@@ -1,6 +1,8 @@
 # this is HTML5 Game
 
-## is use HTML5 CSS3 and JS to build this
+### game link [click here](https://game-rockpaperscissor-mad.netlify.app/) to play
+ 
+## I use HTML5 CSS3 and JS to build this
 ### this game is rock paper and scissor
 ### this game is very easy to play you have to select a picture of rock or paper or scissor.
 ### in background computer code is also select one of them and returns.
