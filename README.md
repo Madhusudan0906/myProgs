@@ -1,6 +1,8 @@
 # this is HTML5 Game
 
-### game link [click here](https://game-rockpaperscissor-mad.netlify.app/) to play
+### game link to play
+- [Netlify](https://game-rockpaperscissor-mad.netlify.app/)
+- [github pages](https://madhusudan0906.github.io/myprogs.github.io/)
  
 ## I use HTML5 CSS3 and JS to build this
 ### this game is rock paper and scissor
